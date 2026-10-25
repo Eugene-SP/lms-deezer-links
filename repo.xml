@@ -1,0 +1,14 @@
+<?xml version='1.0' standalone='yes'?>
+<extensions>
+  <plugins>
+    <plugin name="DeezerLinks" maxTarget="*" minTarget="8.3" version="0.1.1">
+      <sha>f61febbafa6b3c5c248d212b2affbfaa0511e4c6</sha>
+      <creator>Eugene-SP</creator>
+      <title lang="EN">Deezer Links</title>
+      <desc lang="EN">Play links shared from the Deezer app with the Deezer plugin</desc>
+      <category>musicservices</category>
+      <url>https://github.com/Eugene-SP/lms-deezer-links/releases/download/v0.1.1/DeezerLinks-0.1.1.zip</url>
+      <link>https://github.com/Eugene-SP/lms-deezer-links</link>
+    </plugin>
+  </plugins>
+</extensions>

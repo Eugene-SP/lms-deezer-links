@@ -1,0 +1,15 @@
+<?xml version='1.0' standalone='yes'?>
+<extensions>
+  <name>PLUGIN_DEEZERLINKS_NAME</name>
+  <description>PLUGIN_DEEZERLINKS_DESC</description>
+  <creator>Eugene-SP</creator>
+  <homepageURL>https://github.com/Eugene-SP/lms-deezer-links</homepageURL>
+  <id>6f0c2a9e-7d4b-4c1e-9b8a-3e5f1d2c7a40</id>
+  <version>0.1.1</version>
+  <module>Plugins::DeezerLinks::Plugin</module>
+  <category>musicservices</category>
+  <targetApplication>
+    <minVersion>8.3.0</minVersion>
+    <maxVersion>*</maxVersion>
+  </targetApplication>
+</extensions>

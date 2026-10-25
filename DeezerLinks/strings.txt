@@ -1,0 +1,7 @@
+PLUGIN_DEEZERLINKS_NAME
+	EN	Deezer Links
+	RU	Ссылки Deezer
+
+PLUGIN_DEEZERLINKS_DESC
+	EN	Play links shared from the Deezer app (link.deezer.com, www.deezer.com/xx/...) with the Deezer plugin.
+	RU	Воспроизводит ссылки из «Поделиться» приложения Deezer (link.deezer.com, www.deezer.com/xx/...) через плагин Deezer.
